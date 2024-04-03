@@ -12,7 +12,7 @@
 
 Hello my name is Andrew Lara, I also go by "Drew", it makes my name shorter and friendly. I am a 2<sup>nd</sup> year Mathematics-Computer Science Undergradute at UC San Diego. 
 
-I am from a small border town in Imperial County CA called Calexico. If you know where that is congrats, not a lot of people do! I lived there my whole life, going to school for the most part in the neigboring city El Centro. My parents on the other hand were born in Mexico and grew up there, so I am Mexican. I would like to say I grew up in a women household since I have two older sisters that stayed home alongside my mother while my dad went to work. Both of my sisters are married and have children, so I am uncle, and to be exact I am an uncle of **7 nephews and nieces**! ~~Imagine the mess when all of us are in one household~~
+I am from a small border town in Imperial County CA called Calexico. If you know where that is congrats, not a lot of people do! I lived there my whole life, going to school for the most part in the neigboring city El Centro. My parents on the other hand were born in Mexico and grew up there, so I am Mexican. I would like to say I grew up in a household of women since I have two older sisters that stayed home alongside my mother while my dad went to work. Both of my sisters are married and have children, so I am an uncle, and to be exact I am an uncle of **7 nephews and nieces**! ~~Imagine the mess when all of us are in one household~~
 
 ## Coding Journey
 
@@ -53,8 +53,8 @@ The programming languages I learned / were exposed to in order were:
 - I didn't start understanding English until ~2<sup>nd</sup> grade
 - I enjoy fun math problems
 - I grew up watching the majority of shows and movies on TV in Spanish dub
-- I listening to [these](https://www.youtube.com/watch?v=jfKfPfyJRdk) lofi beats when doing homework
-- I [met](IMG_3601.jpg) the UC San Diego Chancellor, Pradeep K. Khosla
+- I listen to [these](https://www.youtube.com/watch?v=jfKfPfyJRdk) lofi beats when doing homework
+- I met the [UC San Diego Chancellor](IMG_3601.jpg), Pradeep K. Khosla
 
 ## Current Small Goals
 
@@ -65,6 +65,6 @@ I'll do my best to update this :-)
 - [ ] Decide whether or not to take CSE 101
 - [ ] Talk to the Air Force about recruitment options
 - [ ] Take the ASVAB
-- [ ] Tell people I am wokring with I will be out for PYCON in may
+- [ ] Tell people I am wokring with that I will be out for PYCON in May
 - [ ] GO TO PYCON!
-- [ ] Apply to at least 10 Internship
+- [ ] Apply to at least 10 Internships

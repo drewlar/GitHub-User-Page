@@ -28,7 +28,7 @@ public class Main{
 }
 ```
 I like to share this detail, because it was only through practice and learning that many coders get to the level that they are now, and I am no exception. In my journey I went through many failures and successes, both are good teachers. From all my experience in life so far I  like to tell people I talk to that...
->You shouldn't define yourself from your success but rather from your failures. The true you comes out when you encounter failure. 
+>You shouldn't define yourself from your success but rather from your failures. Your true self is revealed when you encounter failure. 
 
 #### Small Fun Detail:
 
